@@ -1,0 +1,16 @@
+# Java 编译文件
+*.class
+bin/
+out/
+target/
+
+# VS Code 配置
+.vscode/
+
+# 数据库临时文件
+*.ldb
+*.laccdb
+
+# 系统文件
+.DS_Store
+Thumbs.db
